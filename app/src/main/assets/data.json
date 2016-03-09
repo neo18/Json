@@ -1,0 +1,127 @@
+{
+  "ResultSet": {
+    "totalResultsReturned": 24,
+    "items": [
+      {
+        "Title": "Orange",
+        "Summary": "summary",
+        "Price": 500
+      },
+      {
+        "Title": "Apple",
+        "Summary": null,
+        "Price": 200
+      },
+      {
+        "Title": "Grapes",
+        "Summary": "Grapes summary",
+        "Price": 200.567
+      },
+      {
+        "Title": "Watermelon",
+        "Summary": "watermelon test",
+        "Price": null
+      },
+      {
+        "Title": "Green Apple",
+        "Summary": "Green Apple test",
+        "Price": null
+      },
+      {
+        "Title": "Banana",
+        "Summary": "Banana test",
+        "Price": 300
+      },
+      {
+        "Title": "Orange",
+        "Summary": "summary",
+        "Price": 500
+      },
+      {
+        "Title": "Apple",
+        "Summary": "null",
+        "Price": 200
+      },
+      {
+        "Title": "Grapes",
+        "Summary": "Grapes summary",
+        "Price": 200.567
+      },
+      {
+        "Title": "Watermelon",
+        "Summary": "watermelon test",
+        "Price": 200
+      },
+      {
+        "Title": "Green Apple",
+        "Summary": "Green Apple test",
+        "Price": null
+      },
+      {
+        "Title": "Banana",
+        "Summary": "Banana test",
+        "Price": 300
+      },
+      {
+        "Title": "Orange",
+        "Summary": "summary",
+        "Price": 500
+      },
+      {
+        "Title": "Apple",
+        "Summary": null,
+        "Price": 200
+      },
+      {
+        "Title": "Grapes",
+        "Summary": "Grapes summary",
+        "Price": 200.567
+      },
+      {
+        "Title": "Watermelon",
+        "Summary": "watermelon test",
+        "Price": 200
+      },
+      {
+        "Title": "Green Apple",
+        "Summary": "Green Apple test",
+        "Price": null
+      },
+      {
+        "Title": "Banana",
+        "Summary": "Banana test",
+        "Price": 300
+      },
+      {
+        "Title": "Orange",
+        "Summary": "summary",
+        "Price": 500
+      },
+      {
+        "Title": "Apple",
+        "Summary": null,
+        "Price": 200
+      },
+      {
+        "Title": "Melon",
+        "Summary": "melon summary",
+        "Price": 123.456
+      },
+      {
+        "Title": "Coconut",
+        "Summary": "coconut test",
+        "Price": 200
+      },
+      {
+        "Title": "Green grapes",
+        "Summary": "Green grapes test",
+        "Price": 500
+      },
+      {
+        "Title": "Green Banana",
+        "Summary": "Green Banana test",
+        "Price": 300
+      }
+    ]
+  }
+}
