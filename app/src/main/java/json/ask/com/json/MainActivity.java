@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // Reading json form assets
-    public String loadJSONFromAsset() {
+    private String loadJSONFromAsset() {
         String json;
         try {
             InputStream is = getAssets().open("data.json");
